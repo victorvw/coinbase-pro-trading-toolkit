@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/coinbase/coinbase-pro-trading-toolkit)
+
 # Coinbase Pro Trading toolkit
 
 [![CircleCI](https://circleci.com/gh/coinbase/coinbase-pro-trading-toolkit.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-pro-trading-toolkit)
